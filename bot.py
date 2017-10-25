@@ -26,7 +26,7 @@ def logo(bot, update):
 def main():
     # Creamos el Updater, objeto que se encargará de mandarnos las peticiones del bot
     # Por supuesto no os olvidéis de cambiar donde pone "TOKEN" por el token que os ha dado BotFather
-    updater = Updater("TOKEN")
+    updater = Updater("476434772:AAFGetHHvdlZTU1Jzt6kPdBdE9wqPosnBd4")
  
     # Cogemos el Dispatcher, en el cual registraremos los comandos del bot y su funcionalidad
     dispatcher = updater.dispatcher
